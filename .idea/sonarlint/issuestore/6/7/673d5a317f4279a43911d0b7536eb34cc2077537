@@ -1,6 +1,4 @@
 
-w
-java:S3740"/Provide the parametrized type for this generic.(­õñ‹úÿÿÿÿ8ôÖÉ‰÷1J$8009c9c2-c4eb-48a7-a04d-04b7cf9ed7bc
-•
-java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ã—©ù8ÕìÈ‰÷1J$fc945f9f-1c86-4ca4-aae4-c9c03c3024ce
-m	java:S106"+Replace this use of System.out by a logger.(•°€Ù8–×É‰÷1J$8e64938d-7f3e-43e7-b3c0-8b9770a20734
+m	java:S106"+Replace this use of System.out by a logger.(•°€Ù8§Ê…‹÷1J$af807ea5-1e81-441b-a649-f0a6bb42a97a
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8§Ê…‹÷1J$f881df59-647c-4c4a-b5cd-89b04fdffbd8

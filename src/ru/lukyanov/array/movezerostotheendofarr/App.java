@@ -8,14 +8,14 @@ public class App {
         int counterWithNulls = 0;
         int length = nums.length;
         while (counterWithNulls < length) {
-            if (nums[counterWithNulls] == 0) {// находим нулевые элементы и увеличиваем счётчик
+            if (nums[counterWithNulls] == 0) {
                 counterWithNulls++;
-            } else { // сдвигаем элементы на количество найденных нулевых элементов слева
+            } else {
                 nums[counterWithoutNulls++] = nums[counterWithNulls++];
             }
         }
         while (counterWithoutNulls < length) {
-            nums[counterWithoutNulls++] = 0;// заполняем последние элементы массива нулями согласно счётчику нулей
+            nums[counterWithoutNulls++] = 0;
         }
     }
 
