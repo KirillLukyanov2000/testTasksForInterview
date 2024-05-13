@@ -1,4 +1,4 @@
-package ru.lukyanov.array.matrixDiagonalSum;
+package ru.lukyanov.array.matrixdiagonalsum;
 
 public class App {
     public static int countDiagonalSum(int[][] matrix) {
