@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="array and String tasks added">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44ea9a1bf748918100232d041b4b115519fb7bda" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44ea9a1bf748918100232d041b4b115519fb7bda" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/858b1175998460b96606b19ef594e06e2fb608d6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a65d07c5b547769eadc73e5636d3bced8d6189ef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/5/858b1175998460b96606b19ef594e06e2fb608d6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/6/a65d07c5b547769eadc73e5636d3bced8d6189ef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/array/arraysintersection/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/array/arraysintersection/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="array and sorting tasks added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,21 +42,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.reversearr.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.improvedselectionsort.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.checkpalindrome.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.ru.lukyanov.array.arraysintersection.App.executor": "Run",
+    "Application.ru.lukyanov.array.reversearr.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.improvedselectionsort.App.executor": "Run",
+    "Application.ru.lukyanov.strings.checkpalindrome.App.executor": "Run",
+    "Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor": "Run",
+    "Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.ru.lukyanov.array.arraysintersection.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.bubblesort.App" />
@@ -224,7 +215,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715671072585</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="array and sorting tasks added">
+      <option name="closed" value="true" />
+      <created>1715757598061</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715757598061</updated>
+    </task>
+    <task id="LOCAL-00011" summary="array and sorting tasks added">
+      <option name="closed" value="true" />
+      <created>1715757647758</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1715757647758</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +249,7 @@
     <MESSAGE value="project created" />
     <MESSAGE value="matrixDiagonalSum created" />
     <MESSAGE value="array and String tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="array and String tasks added" />
+    <MESSAGE value="array and sorting tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="array and sorting tasks added" />
   </component>
 </project>
