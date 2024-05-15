@@ -1874,10 +1874,6 @@ Q.idea/sonarlint/securityhotspotstore/0/8/08095fc0b86414266650473138e18c5b0cf7d5
 Q.idea/sonarlint/securityhotspotstore/2/6/26f1fd19426370325ed910e95d3cd2fda8a5c7b5,4\4\444d429cf3cb81a73dcfff3e21d05bc9d05bd1ee
 f
 6src/ru/lukyanov/sorting/improvedselectionsort/App.java,2\a\2a0988de6984b8c9c357048ee8ac75f02a19b7a3
-_
-/src/ru/lukyanov/list/reverselinkedlist/App.java,a\6\a65d07c5b547769eadc73e5636d3bced8d6189ef
-r
-Bsrc/ru/lukyanov/strings/maxsubstringlengthwithoutrepeatedchar.java,8\5\858b1175998460b96606b19ef594e06e2fb608d6
 v
 Fsrc/ru/lukyanov/strings/maxsubstringlengthwithoutrepeatedchar/App.java,4\4\44ea9a1bf748918100232d041b4b115519fb7bda
 w
@@ -3776,3 +3772,7 @@ Q.idea/sonarlint/securityhotspotstore/a/6/a65d07c5b547769eadc73e5636d3bced8d6189
 Q.idea/sonarlint/securityhotspotstore/4/4/44ea9a1bf748918100232d041b4b115519fb7bda,2\8\285617f331c6a14e026ba9098946e6607b8460ac
 Å
 Q.idea/sonarlint/securityhotspotstore/8/5/858b1175998460b96606b19ef594e06e2fb608d6,2\6\26c351150b6703468835ca98fdcca1568e232cab
+[
++src/ru/lukyanov/sorting/bubblesort/App.java,d\1\d14cd79282b1f2dbb2bd1a0e933496ced78b770f
+a
+1src/ru/lukyanov/array/arraysintersection/App.java,d\2\d2654f6e36c5182e8a27f9c641cf7df310e63e4c
