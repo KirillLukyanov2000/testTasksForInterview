@@ -3664,3 +3664,11 @@ k
 ;src/ru/lukyanov/strings/countrepeatedcharsinstring/App.java,9\d\9dee8ca8cb39516e27a2d12b6a5adea0ae7a2da3
 ^
 .src/ru/lukyanov/strings/checkanagramm/App.java,d\c\dcc26b9e74de1c745cfa343078ef423a1b980163
+N
+src/ru/lukyanov/list/Test.java,9\8\9887b32cc09518953ca1d31c7e504fb91daf3454
+a
+1src/ru/lukyanov/numbers/changetwonumbers/App.java,3\3\33986829694f1382de69941365256e8915e46542
+U
+%src/ru/lukyanov/collections/Test.java,2\9\29cfb35bc2e6c59b69d07d7a2b67a2760436186c
+n
+>src/ru/lukyanov/collections/countwordsinstringwithmap/App.java,9\1\912d7d9c882f401c4a900ce4d67c43359b0fd60e

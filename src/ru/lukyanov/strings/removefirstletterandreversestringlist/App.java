@@ -1,7 +1,7 @@
 package ru.lukyanov.strings.removefirstletterandreversestringlist;
 
 import java.util.ArrayList;
-import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 
@@ -9,7 +9,7 @@ public class App {
     public static List<String> processTheList(List<String> nameList) {
         return nameList.stream()
                 .map(x -> x.substring(1))
-                .sorted().toList();
+                .sorted(Comparator.reverseOrder()).toList();
 
     }
 
