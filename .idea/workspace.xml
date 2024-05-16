@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="array and sorting tasks added" />
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="array and sorting tasks added">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_05_2024_14_03_[Changes]/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_05_2024_14_03_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_05_2024_14_03__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,36 +49,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.ru.lukyanov.array.arraysintersection.App.executor": "Run",
-    "Application.ru.lukyanov.array.reversearr.App.executor": "Run",
-    "Application.ru.lukyanov.sorting.improvedselectionsort.App.executor": "Run",
-    "Application.ru.lukyanov.strings.checkpalindrome.App.executor": "Run",
-    "Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor": "Run",
-    "Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.array.arraysintersection.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.array.findrepeatedelement.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.array.findsecondbiggestelement.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.array.reversearr.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.sorting.improvedselectionsort.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.checkanagramm.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.checkpalindrome.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.countcharsinstring.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ru.lukyanov.array.arraysintersection.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.bubblesort.App" />
-      <module name="testTasksForInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.lukyanov.sorting.bubblesort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.ru.lukyanov.strings.checkanagramm.App">
     <configuration name="ru.lukyanov.array.arraysintersection.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.arraysintersection.App" />
       <module name="testTasksForInterview" />
@@ -85,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.sorting.improvedselectionsort.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.improvedselectionsort.App" />
+    <configuration name="ru.lukyanov.array.findrepeatedelement.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.findrepeatedelement.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.sorting.improvedselectionsort.*" />
+          <option name="PATTERN" value="ru.lukyanov.array.findrepeatedelement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.strings.checkpalindrome.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.checkpalindrome.App" />
+    <configuration name="ru.lukyanov.array.findsecondbiggestelement.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.findsecondbiggestelement.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.strings.checkpalindrome.*" />
+          <option name="PATTERN" value="ru.lukyanov.array.findsecondbiggestelement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +109,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App" />
+    <configuration name="ru.lukyanov.strings.checkanagramm.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.checkanagramm.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.*" />
+          <option name="PATTERN" value="ru.lukyanov.strings.checkanagramm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.lukyanov.strings.countrepeatedcharsinstring.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.countrepeatedcharsinstring.App" />
+      <module name="testTasksForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lukyanov.strings.countrepeatedcharsinstring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.lukyanov.strings.checkanagramm.App" />
+        <item itemvalue="Application.ru.lukyanov.strings.countrepeatedcharsinstring.App" />
+        <item itemvalue="Application.ru.lukyanov.array.findsecondbiggestelement.App" />
+        <item itemvalue="Application.ru.lukyanov.array.findrepeatedelement.App" />
         <item itemvalue="Application.ru.lukyanov.array.arraysintersection.App" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App" />
-        <item itemvalue="Application.ru.lukyanov.sorting.improvedselectionsort.App" />
-        <item itemvalue="Application.ru.lukyanov.strings.checkpalindrome.App" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715757647758</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="array and sorting tasks added">
+      <option name="closed" value="true" />
+      <created>1715757727822</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1715757727822</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
