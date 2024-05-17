@@ -3776,3 +3776,7 @@ n
 >src/ru/lukyanov/collections/countwordsinstringwithmap/App.java,9\1\912d7d9c882f401c4a900ce4d67c43359b0fd60e
 Y
 )src/ru/lukyanov/numbers/isaprime/App.java,c\b\cb7f72fdd7dba47d42d92c992d7591e9886d244a
+\
+,src/ru/lukyanov/numbers/isFibonacci/App.java,b\0\b068306b0cff62941b41ac8a9b532ced9586b170
+_
+/src/ru/lukyanov/numbers/countfibonacci/App.java,b\3\b38b23e0a4804a170c7e7634e422cfab5ae629f7

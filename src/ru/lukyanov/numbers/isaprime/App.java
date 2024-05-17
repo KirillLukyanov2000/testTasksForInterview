@@ -20,6 +20,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        isAPrime(4);
+        isAPrime(1);
     }
 }
