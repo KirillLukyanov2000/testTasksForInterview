@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="array and sorting tasks edited">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/673d5a317f4279a43911d0b7536eb34cc2077537" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/673d5a317f4279a43911d0b7536eb34cc2077537" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0718e2c8f6bdc648903c496f851cedd8b16b16b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0718e2c8f6bdc648903c496f851cedd8b16b16b" afterDir="false" />
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="collection mod tasks added">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/0078670e5b1026b032cbeb659c0a45b213e77f08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46da21b1c75279df6b04a937a5b4051ab073c9d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89a6526c13e2bec47ebd22ed584602fea3378d1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b4e530a5de3c61b8f69d3bfb631dd7ff41658788" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/0/0078670e5b1026b032cbeb659c0a45b213e77f08" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/6/46da21b1c75279df6b04a937a5b4051ab073c9d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/9/89a6526c13e2bec47ebd22ed584602fea3378d1e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/4/b4e530a5de3c61b8f69d3bfb631dd7ff41658788" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/strings/checkpalindrome/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/strings/checkpalindrome/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/strings/removefirstletterandreversestringlist/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/strings/removefirstletterandreversestringlist/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/collections/countwordsinstringwithmap/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/collections/countwordsinstringwithmap/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +65,7 @@
     "Application.ru.lukyanov.array.reversearr.App.executor": "Run",
     "Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor": "Run",
     "Application.ru.lukyanov.numbers.changetwonumbers.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.isaprime.App.executor": "Run",
     "Application.ru.lukyanov.sorting.improvedselectionsort.App.executor": "Run",
     "Application.ru.lukyanov.strings.checkanagramm.App.executor": "Run",
     "Application.ru.lukyanov.strings.checkpalindrome.App.executor": "Run",
@@ -73,20 +79,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ru.lukyanov.collections.countwordsinstringwithmap.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.removefirstletterandreversestringlist.App" />
-      <module name="testTasksForInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.lukyanov.strings.removefirstletterandreversestringlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ru.lukyanov.numbers.isaprime.App">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.collections.Test" />
       <module name="testTasksForInterview" />
@@ -126,6 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.lukyanov.numbers.isaprime.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.isaprime.App" />
+      <module name="testTasksForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lukyanov.numbers.isaprime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ru.lukyanov.strings.checkpalindrome.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.checkpalindrome.App" />
       <module name="testTasksForInterview" />
@@ -141,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.lukyanov.numbers.isaprime.App" />
         <item itemvalue="Application.ru.lukyanov.collections.countwordsinstringwithmap.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.changetwonumbers.App" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ru.lukyanov.strings.checkpalindrome.App" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715855462270</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="collection mod tasks added">
+      <option name="closed" value="true" />
+      <created>1715861168808</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715861168808</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +296,7 @@
     <MESSAGE value="array and String tasks added" />
     <MESSAGE value="array and sorting tasks added" />
     <MESSAGE value="array and sorting tasks edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="array and sorting tasks edited" />
+    <MESSAGE value="collection mod tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection mod tasks added" />
   </component>
 </project>
