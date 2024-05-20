@@ -1,25 +1,23 @@
 package ru.lukyanov.numbers.isaprime;
 
+import java.math.BigInteger;
+
 public class App {
 
-    public static void isAPrime(int number) {
-        int tempNumber;
-        boolean numberIsPrime = true;
-
-        for (int x = 2; x <= number / 2; x++) {
-            tempNumber = number % x;
-            if (tempNumber == 0) {
-                numberIsPrime = false;
-                break;
+    public static void isAPrimeVar1(int number) {
+        for (int i = 2; i < number; i++) {
+            if (number % i == 0) {
+                System.out.println("false");
             }
         }
-        if (numberIsPrime)
-            System.out.println(number + " - число является простым");
-        else
-            System.out.println(number + " - число не является простым");
+    }
+
+    public static void isAPrimeVar2(int number) {
+        BigInteger bigInteger = new BigInteger(new String(String.valueOf(number)));
+        System.out.println(bigInteger.isProbablePrime(1));
     }
 
     public static void main(String[] args) {
-        isAPrime(1);
+        isAPrimeVar1(4);
     }
 }

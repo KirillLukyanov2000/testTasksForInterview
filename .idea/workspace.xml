@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="numbers tasks added">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/3814d83f00c9d408149b1151985daae84bd6e0c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b85b033461b0280cd8150c1893e609a54a74759" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/674826ebf12097b434d339d7ad104c463babc92b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6ca42748c541c64031910f74b79364eed22c3b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d8bcc1dc4688be4815842d59d9dc33c23b5e4de" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/73ed6053b204b70fa788b13c7f049f0f4fd45f81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92a49489bc1160892d6f2a77609d40770d612ba7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d15fc579bbdec7845a8fef9d9feefca1d47470af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/8/3814d83f00c9d408149b1151985daae84bd6e0c1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/b/5b85b033461b0280cd8150c1893e609a54a74759" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/7/674826ebf12097b434d339d7ad104c463babc92b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/c/6ca42748c541c64031910f74b79364eed22c3b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/d/6d8bcc1dc4688be4815842d59d9dc33c23b5e4de" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/3/73ed6053b204b70fa788b13c7f049f0f4fd45f81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/92a49489bc1160892d6f2a77609d40770d612ba7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/1/d15fc579bbdec7845a8fef9d9feefca1d47470af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfibonacci/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfibonacci/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/isaprime/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/isaprime/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,37 +64,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.ru.lukyanov.array.arraysintersection.App.executor": "Run",
-    "Application.ru.lukyanov.array.findrepeatedelement.App.executor": "Run",
-    "Application.ru.lukyanov.array.findsecondbiggestelement.App.executor": "Run",
-    "Application.ru.lukyanov.array.reversearr.App.executor": "Run",
-    "Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor": "Run",
-    "Application.ru.lukyanov.numbers.changetwonumbers.App.executor": "Run",
-    "Application.ru.lukyanov.numbers.isaprime.App.executor": "Run",
-    "Application.ru.lukyanov.sorting.improvedselectionsort.App.executor": "Run",
-    "Application.ru.lukyanov.strings.checkanagramm.App.executor": "Run",
-    "Application.ru.lukyanov.strings.checkpalindrome.App.executor": "Run",
-    "Application.ru.lukyanov.strings.countcharsinstring.App.executor": "Run",
-    "Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor": "Run",
-    "Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.array.arraysintersection.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.array.findrepeatedelement.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.array.findsecondbiggestelement.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.array.reversearr.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.numbers.changetwonumbers.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.numbers.isaprime.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.sorting.improvedselectionsort.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.checkanagramm.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.checkpalindrome.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.countcharsinstring.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ru.lukyanov.numbers.isaprime.App">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.collections.Test" />
+}</component>
+  <component name="RunManager" selected="Application.ru.lukyanov.collections.listiterations.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.countfibonacci.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.collections.*" />
+          <option name="PATTERN" value="ru.lukyanov.numbers.countfibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,6 +108,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.lukyanov.collections.countwordsinstringwithmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.lukyanov.collections.listiterations.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.collections.listiterations.App" />
+      <module name="testTasksForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lukyanov.collections.listiterations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,26 +154,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.strings.checkpalindrome.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.checkpalindrome.App" />
-      <module name="testTasksForInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.lukyanov.strings.checkpalindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.lukyanov.collections.listiterations.App" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.isaprime.App" />
         <item itemvalue="Application.ru.lukyanov.collections.countwordsinstringwithmap.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.changetwonumbers.App" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ru.lukyanov.strings.checkpalindrome.App" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715943185180</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="numbers tasks added">
+      <option name="closed" value="true" />
+      <created>1715945621934</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1715945621934</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
