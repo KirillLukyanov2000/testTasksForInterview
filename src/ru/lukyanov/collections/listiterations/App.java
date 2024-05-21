@@ -1,5 +1,7 @@
 package ru.lukyanov.collections.listiterations;
 
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
@@ -7,7 +9,6 @@ public class App {
 
     public static void main(String[] args) {
         List<String> list = List.of("aq", "aw", "zz", "zzz");
-
         System.out.println("Цикл For:");
         for (int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));
@@ -17,7 +18,7 @@ public class App {
             System.out.println(s);
         }
         System.out.println("Цикл While:");
-        Iterator iterator = list.iterator();
+        Iterator<String> iterator = list.iterator();
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
         }

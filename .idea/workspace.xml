@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="numbers tasks added">
-      <change afterPath="$PROJECT_DIR$/src/ru/lukyanov/collections/listiterations/App.java" afterDir="false" />
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="strings and collections tasks added">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/collections/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/strings/countrepeatedcharsinstring/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/strings/countrepeatedcharsinstring/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/collections/listiterations/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/collections/listiterations/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/changetwonumbers/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/changetwonumbers/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfibonacci/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfibonacci/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,7 @@
     "Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor": "Run",
     "Application.ru.lukyanov.collections.listiterations.App.executor": "Run",
     "Application.ru.lukyanov.numbers.changetwonumbers.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.isArmstrongNum.App.executor": "Run",
     "Application.ru.lukyanov.numbers.isaprime.App.executor": "Run",
     "Application.ru.lukyanov.sorting.improvedselectionsort.App.executor": "Run",
     "Application.ru.lukyanov.strings.checkanagramm.App.executor": "Run",
@@ -73,7 +76,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ru.lukyanov.strings.countrepeatedcharsinstring.App">
+  <component name="RunManager" selected="Application.ru.lukyanov.numbers.isArmstrongNum.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.countfibonacci.App" />
       <module name="testTasksForInterview" />
@@ -87,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.collections.countwordsinstringwithmap.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.collections.countwordsinstringwithmap.App" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.Test" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.collections.countwordsinstringwithmap.*" />
+          <option name="PATTERN" value="ru.lukyanov.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,6 +116,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.lukyanov.numbers.isArmstrongNum.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.isArmstrongNum.App" />
+      <module name="testTasksForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lukyanov.numbers.isArmstrongNum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ru.lukyanov.numbers.isaprime.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.isaprime.App" />
       <module name="testTasksForInterview" />
@@ -126,26 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.strings.countrepeatedcharsinstring.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.countrepeatedcharsinstring.App" />
-      <module name="testTasksForInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.lukyanov.strings.countrepeatedcharsinstring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.lukyanov.strings.countrepeatedcharsinstring.App" />
-        <item itemvalue="Application.ru.lukyanov.collections.listiterations.App" />
+        <item itemvalue="Application.ru.lukyanov.numbers.isArmstrongNum.App" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.isaprime.App" />
-        <item itemvalue="Application.ru.lukyanov.collections.countwordsinstringwithmap.App" />
+        <item itemvalue="Application.ru.lukyanov.collections.listiterations.App" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716190635433</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="strings and collections tasks added">
+      <option name="closed" value="true" />
+      <created>1716193254669</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1716193254669</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +327,7 @@
     <MESSAGE value="array and sorting tasks edited" />
     <MESSAGE value="collection mod tasks added" />
     <MESSAGE value="numbers tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="numbers tasks added" />
+    <MESSAGE value="strings and collections tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="strings and collections tasks added" />
   </component>
 </project>
