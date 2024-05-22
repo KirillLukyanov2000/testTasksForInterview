@@ -1,5 +1,7 @@
 package ru.lukyanov.numbers.isArmstrongNum;
 
+import java.util.Set;
+
 public class App {
 
     public static void isArmstrongNumber(int num) {
