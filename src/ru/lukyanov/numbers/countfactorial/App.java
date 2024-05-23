@@ -1,5 +1,7 @@
 package ru.lukyanov.numbers.countfactorial;
 
+import java.util.concurrent.atomic.AtomicLong;
+
 public class App {
 
     public static int countFactorialV1(int num) {

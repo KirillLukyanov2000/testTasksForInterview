@@ -7484,3 +7484,7 @@ Q.idea/sonarlint/securityhotspotstore/9/1/914dc30d3c69ab83986d92da92d4fc24e0abf3
 Q.idea/sonarlint/securityhotspotstore/4/e/4e8d5ae9edcbd317f338314b74a32e78eba2c873,5\4\54154f8eb5d36f620b983a6026eefb33bb73db5a
 Å
 Q.idea/sonarlint/securityhotspotstore/2/e/2e5c9f691de5ffcdc650ecf376e57f1db099daa9,e\7\e78a6795dd4329cccb5408be0fc9935110d2ba3f
+]
+-src/ru/lukyanov/numbers/finddivisors/App.java,2\9\29c523753b5ee064ec0266e885c71b0c5e04f287
+Z
+*src/ru/lukyanov/array/fill2darray/App.java,d\6\d6a61338714c153355a1efb62b39a8ff7b0cf678
