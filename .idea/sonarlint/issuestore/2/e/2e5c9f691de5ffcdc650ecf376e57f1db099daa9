@@ -1,4 +1,3 @@
 
-Ã
-java:S2681"{This statement will not be executed conditionally; only the first statement will be. The rest will execute unconditionally.(ÅüïËşÿÿÿÿ8Åıå„ú1J$05b6c7ec-d4c2-4948-bd49-2eaf31f73e24
-m	java:S106"+Replace this use of System.out by a logger.(êš™ô8Õıå„ú1J$1d43ff41-b8b0-4c81-83bb-0a19c59f699f
+r	java:S106"+Replace this use of System.out by a logger.(ìØÀ™şÿÿÿÿ8ëÀÜ£ú1J$16bd16d5-ac89-44f5-8f3e-49328fe5a7b4
+r	java:S106"+Replace this use of System.out by a logger.(“œ®õüÿÿÿÿ8ìÀÜ£ú1J$1f31d2bf-5d6b-4675-871e-a5e6f0decbc8

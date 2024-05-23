@@ -4,7 +4,7 @@ import java.util.Set;
 
 public class App {
 
-    public static void isArmstrongNumber(int num) {
+    public static void isArmstrongNumberV1(int num) {
         int x = 0, y = 0, temp = 0;
         temp = num;
         while (num > 0) {
@@ -18,17 +18,38 @@ public class App {
             System.out.println(temp + " Данное число не является числом Армстронга");
     }
 
-    public static void checkArmstrongNum(int limit) {
+    public static void isArmstrongNumberV2(int num) {
+        int x = 0, y = 0, temp = 0, itr = 0;
+        temp = num;
+        while (temp > 0) {
+            temp = temp / 10;
+            ++itr;
+        }
+        temp = num;
+        while (temp > 0) {
+            x = temp % 10;
+            temp = temp / 10;
+            y = (int) (y + Math.pow(x, itr));
+        }
+        if (num == y)
+            System.out.println(num + " Данное число является числом Армстронга");
+        else
+            System.out.println(num + " Данное число не является числом Армстронга");
+    }
+
+    public static void checkArmstrongNum100to999(int limit) {
         int start = 0;
         while (start <= limit) {
-            isArmstrongNumber(start);
+            isArmstrongNumberV1(start);
             start++;
         }
     }
 
     public static void main(String[] args) {
-        isArmstrongNumber(371);
-        checkArmstrongNum(371);
+        isArmstrongNumberV1(371);
+        isArmstrongNumberV2(1634);
+        checkArmstrongNum100to999(372);
+
     }
 
 }

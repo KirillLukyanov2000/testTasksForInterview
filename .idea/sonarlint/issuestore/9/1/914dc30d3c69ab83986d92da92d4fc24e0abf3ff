@@ -1,8 +1,12 @@
 
+
+java:S1659">Declare "y" and all following declarations on a separate line.(á´ÕÈ8ËÛ°¡ú1J$0a040576-8a63-44f8-be81-4fd073c7ac2e
+m	java:S106"+Replace this use of System.out by a logger.(¤ƒ”™8ËÛ°¡ú1J$28d02054-f522-4883-98b3-9fcb69f073b2
+r	java:S106"+Replace this use of System.out by a logger.(¤àŸúÿÿÿÿ8ËÛ°¡ú1J$9530103e-9222-4457-a06c-339c8c0a2d08
 †
-java:S1659">Declare "b" and all following declarations on a separate line.(Šº×õøÿÿÿÿ8 İÎÎù1J$2d783326-aaea-47ce-a56b-6b6a0ccc9fef
-r	java:S106"+Replace this use of System.out by a logger.(“è™İüÿÿÿÿ8¤İÎÎù1J$4df36c10-74d7-4334-8775-762d16998493
-m	java:S106"+Replace this use of System.out by a logger.( §‡İ8§İÎÎù1J$d2485cb2-4ed7-4b1f-bd69-915a21bb62fa
-m	java:S106$"+Replace this use of System.out by a logger.( §‡İ8·İÎÎù1J$8afbd560-3257-443a-bf87-9f2c7bf63b89
-m	java:S1063"+Replace this use of System.out by a logger.(¡—¨8£äÏÎù1J$8e6ff7d9-ddb2-43ee-adbb-321cf8b7e313
-m	java:S1067"+Replace this use of System.out by a logger.(¼²Óø8ÉÄÔÎù1J$b420ebf8-fb0e-43ab-98c8-c4f290bf4257
+java:S1659">Declare "b" and all following declarations on a separate line.(Šº×õøÿÿÿÿ8ËÛ°¡ú1J$101e38f6-3074-4584-99cc-22fbd8d95dbd
+r	java:S106""+Replace this use of System.out by a logger.(“è™İüÿÿÿÿ8ËÛ°¡ú1J$abe92235-39a3-4ed4-a3c1-18d1feeaebcd
+m	java:S106+"+Replace this use of System.out by a logger.( §‡İ8ËÛ°¡ú1J$0b4286d7-8bc1-40b0-813d-130abbbd312b
+m	java:S1062"+Replace this use of System.out by a logger.( §‡İ8ËÛ°¡ú1J$5d41f786-23aa-4b49-a30a-9203a12df590
+m	java:S106B"+Replace this use of System.out by a logger.(¬›Ä8ËÛ°¡ú1J$ddac7c55-66b8-4285-9ec5-51a60f9cfd5b
+m	java:S106F"+Replace this use of System.out by a logger.(¼²Óø8ËÛ°¡ú1J$974402dc-f2b1-44de-b46d-708e7e86fa58

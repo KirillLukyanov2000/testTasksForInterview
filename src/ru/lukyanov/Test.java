@@ -11,6 +11,20 @@ public class Test {
         return true;
     }
 
+    public static void isArmstrong(int num) {
+        int x = 0, y = 0, temp = 0;
+        temp = num;
+        while (num > 0) {
+            x = num % 10;
+            num = num / 10;
+            y = y + (x * x * x);
+        }
+        if (temp == y)
+            System.out.println(temp + " Данное число является числом Армстронга");
+        else
+            System.out.println(temp + " Данное число не является числом Армстронга");
+    }
+
     public static void isFib(int num) {
         int a = 0, b = 0, c = 1;
         for (int i = 0; i <= num; i++) {
@@ -44,11 +58,12 @@ public class Test {
             if (arr[i] > max1) {
                 max2 = max1;
                 max1 = arr[i];
-            } else if (arr[i] > max2 && arr[i] !=max1) {
+            } else if (arr[i] > max2 && arr[i] != max1) {
                 max2 = arr[i];
 
             }
-        }System.out.println(max1 + " " + max2);
+        }
+        System.out.println(max1 + " " + max2);
     }
 
     public static void main(String[] args) {
@@ -58,5 +73,6 @@ public class Test {
         changeTwoNum2(1, 2);
         int[] arr = {3, 2, 5, 1, 4, 8, 20, -10};
         findSecElem(arr);
+        isArmstrong(371);
     }
 }
