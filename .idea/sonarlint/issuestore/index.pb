@@ -7382,3 +7382,11 @@ c
 3src/ru/lukyanov/collections/cleararraylist/App.java,e\1\e1e87428259592af5e9f8b827fdee6ede408ec44
 ^
 .src/ru/lukyanov/numbers/getlastnumber/App.java,3\c\3c6f8c1bc3351c40d7a8650935d676981fbaabda
+g
+7src/ru/lukyanov/collections/numbertocollection/App.java,7\e\7e1079f5b4f43724d0a75fdf97d7b884dddeaa06
+Y
+)src/ru/lukyanov/array/averagenum/App.java,0\4\048dd1372c4cc3e7a40cbcdb16ef9a89ba585602
+X
+(src/ru/lukyanov/array/sumtwoarr/App.java,3\1\317f063543d7785938e5b6df451beb4c1ac343ca
+[
++src/ru/lukyanov/array/shufflearray/App.java,f\f\ff53b4b16ddcfb62e0ba53f97bc1c14144c7a144

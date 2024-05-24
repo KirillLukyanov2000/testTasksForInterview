@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="numbers and arrays tasks added">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e8d5ae9edcbd317f338314b74a32e78eba2c873" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e8d5ae9edcbd317f338314b74a32e78eba2c873" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b29e5095dc26987ae74a809e0f7e06a415bed17" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b29e5095dc26987ae74a809e0f7e06a415bed17" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb7f72fdd7dba47d42d92c992d7591e9886d244a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb7f72fdd7dba47d42d92c992d7591e9886d244a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e5c9f691de5ffcdc650ecf376e57f1db099daa9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e5c9f691de5ffcdc650ecf376e57f1db099daa9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/array/reversearr/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/array/reversearr/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/isArmstrongNum/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/isArmstrongNum/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/isaprime/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/isaprime/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/array/numbertoarray/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/array/numbertoarray/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfactorial/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfactorial/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +54,15 @@
     "Application.App.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ru.lukyanov.array.arraysintersection.App.executor": "Run",
+    "Application.ru.lukyanov.array.averagenum.App.executor": "Run",
     "Application.ru.lukyanov.array.fill2darray.App.executor": "Run",
     "Application.ru.lukyanov.array.findrepeatedelement.App.executor": "Run",
     "Application.ru.lukyanov.array.findsecondbiggestelement.App.executor": "Run",
     "Application.ru.lukyanov.array.movezerostotheendofarr.App.executor": "Run",
     "Application.ru.lukyanov.array.numbertoarray.App.executor": "Run",
     "Application.ru.lukyanov.array.reversearr.App.executor": "Run",
+    "Application.ru.lukyanov.array.shufflearray.App.executor": "Run",
+    "Application.ru.lukyanov.array.sumtwoarr.App.executor": "Run",
     "Application.ru.lukyanov.collections.cleararraylist.App.executor": "Run",
     "Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor": "Run",
     "Application.ru.lukyanov.collections.listiterations.App.executor": "Run",
@@ -87,13 +87,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ru.lukyanov.numbers.getlastnumber.App">
+  <component name="RunManager" selected="Application.ru.lukyanov.array.shufflearray.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.isaprime.App" />
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.collections.numbertocollection.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.numbers.isaprime.*" />
+          <option name="PATTERN" value="ru.lukyanov.collections.numbertocollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.array.movezerostotheendofarr.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.movezerostotheendofarr.App" />
+    <configuration name="ru.lukyanov.array.averagenum.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.averagenum.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.array.movezerostotheendofarr.*" />
+          <option name="PATTERN" value="ru.lukyanov.array.averagenum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.collections.cleararraylist.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.collections.cleararraylist.App" />
+    <configuration name="ru.lukyanov.array.shufflearray.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.shufflearray.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.collections.cleararraylist.*" />
+          <option name="PATTERN" value="ru.lukyanov.array.shufflearray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.numbers.getlastnumber.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.getlastnumber.App" />
+    <configuration name="ru.lukyanov.array.sumtwoarr.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.sumtwoarr.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.numbers.getlastnumber.*" />
+          <option name="PATTERN" value="ru.lukyanov.array.sumtwoarr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,9 +155,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.lukyanov.numbers.getlastnumber.App" />
-        <item itemvalue="Application.ru.lukyanov.array.movezerostotheendofarr.App" />
-        <item itemvalue="Application.ru.lukyanov.collections.cleararraylist.App" />
+        <item itemvalue="Application.ru.lukyanov.array.shufflearray.App" />
+        <item itemvalue="Application.ru.lukyanov.array.sumtwoarr.App" />
+        <item itemvalue="Application.ru.lukyanov.array.averagenum.App" />
         <item itemvalue="Application.ru.lukyanov.array.numbertoarray.App" />
         <item itemvalue="Application.App" />
       </list>
@@ -348,7 +348,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716474508047</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="numbers and arrays tasks added">
+      <option name="closed" value="true" />
+      <created>1716534525283</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716534525283</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

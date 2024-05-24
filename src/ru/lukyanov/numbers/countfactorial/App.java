@@ -1,6 +1,6 @@
 package ru.lukyanov.numbers.countfactorial;
 
-import java.util.concurrent.atomic.AtomicLong;
+import java.util.Objects;
 
 public class App {
 
@@ -15,8 +15,11 @@ public class App {
         return n;
     }
 
+
+
     public static void main(String[] args) {
         System.out.println(countFactorialV1(31)); //max factorial num for int
         System.out.println(countFactorialV2(39)); //max factorial num for long
+
     }
 }
