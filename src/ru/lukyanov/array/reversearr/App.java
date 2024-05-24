@@ -1,14 +1,16 @@
 package ru.lukyanov.array.reversearr;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
 public class App {
     public static Integer[] reverseVar1(Integer[] arr) {
-        List<Integer> list = Arrays.asList(arr);
-        Collections.reverse(list);
-        return list.toArray(arr);
+        List<Integer> unmodList = Arrays.asList(arr);
+        List<Integer> modList = new ArrayList<>(Arrays.asList(arr));
+        Collections.reverse(unmodList);
+        return unmodList.toArray(arr);
     }
     public static Integer[] reverseVar2(Integer[] arr) {
         for (int i = 0; i < arr.length / 2; i++) {

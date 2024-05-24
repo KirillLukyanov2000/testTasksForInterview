@@ -1,2 +1,6 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(Ò§æð8àøˆ‹÷1J$6db37ca9-abe0-4b87-80ab-c6f3e0b04fe8
+ƒ
+java:S1854";Remove this useless assignment to local variable "modList".(ø ¦÷øÿÿÿÿ8ëƒˆËú1J$f653674f-0f86-463c-a080-c265d1c0cdd1
+t
+java:S1481",Remove this unused "modList" local variable.(ø ¦÷øÿÿÿÿ8ûƒˆËú1J$ec3bf83c-ee2b-4df2-86b3-4c5e29da21a1
+m	java:S106"+Replace this use of System.out by a logger.(Ò§æð8ûƒˆËú1J$b3951571-c979-4444-a27f-9948950541cc

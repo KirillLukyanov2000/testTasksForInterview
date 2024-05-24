@@ -1,5 +1,6 @@
 package ru.lukyanov.numbers.isArmstrongNum;
 
+import java.util.Objects;
 import java.util.Set;
 
 public class App {
@@ -25,6 +26,8 @@ public class App {
             temp = temp / 10;
             ++itr;
         }
+//        String length = String.valueOf(num);
+//        itr = length.length();
         temp = num;
         while (temp > 0) {
             x = temp % 10;
