@@ -1,7 +1,7 @@
 
 ƒ
-java:S1854";Remove this useless assignment to local variable "modList".(ø ¦÷øÿÿÿÿ8‹Ûôœü1J$8dcedbcc-05b8-459b-a23b-fbe5592b7968
+java:S1854";Remove this useless assignment to local variable "modList".(ø ¦÷øÿÿÿÿ8‹Ûôœü1J$f44da6fc-34c8-48fc-a88d-6ee46587b5d4
 t
-java:S1481",Remove this unused "modList" local variable.(ø ¦÷øÿÿÿÿ8‹Ûôœü1J$c616f796-de53-44ad-a369-3af5ed6256d1
-m	java:S106"+Replace this use of System.out by a logger.(Ò§æð8‹Ûôœü1J$2d0d6c59-bc3c-4b72-8f97-8214172227fb
-r	java:S106"+Replace this use of System.out by a logger.(ÑØ‘çýÿÿÿÿ8‹Ûôœü1J$bed0dc59-5d0f-4d40-abc8-bdd380d12e5d
+java:S1481",Remove this unused "modList" local variable.(ø ¦÷øÿÿÿÿ8‹Ûôœü1J$8c2efb17-1894-4f4f-b2a3-095d4bb676cb
+m	java:S106"+Replace this use of System.out by a logger.(Ò§æð8‹Ûôœü1J$c60b2fd4-b997-43ad-b9d9-8e5e2d51ad37
+r	java:S106"+Replace this use of System.out by a logger.(ÑØ‘çýÿÿÿÿ8‹Ûôœü1J$0a7d1bdd-4096-42f7-a09f-31258d305e61

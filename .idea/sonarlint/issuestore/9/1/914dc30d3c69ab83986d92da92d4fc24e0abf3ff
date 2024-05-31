@@ -1,17 +1,25 @@
 
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤æˆ8£¦¸êü1J$20aa3fb9-52e9-4d2c-97eb-74134e72ace7
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃœÛï8¶Íşíü1J$43653338-c8ac-46e0-98c2-8f7375f37d7d
 Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃœÛï8£¦¸êü1J$32875114-3360-446e-89ed-4c545b09d45a
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹éÒĞ8£¦¸êü1J$12e07cbc-569c-44f7-895a-127733a3cca9
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óÏ£è8£¦¸êü1J$a71f0849-7ed3-4dba-a219-06ab435394f3
-Ä
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø°–£8£¦¸êü1J$005f16ca-9080-47b2-8318-941e9c63995d
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹éÒĞ8¶Íşíü1J$41fe31e5-b255-4ff6-bb4f-56dce6c4b2e2
 É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œ˜Öàûÿÿÿÿ8£¦¸êü1J$9af01bba-414a-42ff-bd3a-c5a8c84ee028
-r	java:S106"+Replace this use of System.out by a logger.(Í¦ç´ıÿÿÿÿ8£¦¸êü1J$abda084c-1d1b-4d8b-bf54-5651b5f5c0b1
-r	java:S106%"+Replace this use of System.out by a logger.(ûãÁùùÿÿÿÿ8£¦¸êü1J$f105d98a-b435-4f36-8dc3-0c5248fbde43
-m	java:S106/"+Replace this use of System.out by a logger.(õ şß8›©¿êü1J$c2b06306-de35-4cfc-ab27-31fed71388fe
-ƒ	java:S1253"<This block of commented-out lines of code should be removed.(ãèÌûşÿÿÿÿ8³¦¸êü1J$a08415b2-93b1-4039-997f-bd4ce3f85199
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œ˜Öàûÿÿÿÿ8¶Íşíü1J$9cd4a517-e421-4986-ac45-7c1a3d5da7df
+m	java:S106
+"+Replace this use of System.out by a logger.(äã–8¶Íşíü1J$4c185275-5010-4881-be82-49abe37d9092
+m	java:S106"+Replace this use of System.out by a logger.( §‡İ8¶Íşíü1J$0860f008-fa44-4a47-b07f-e59614256549
+m	java:S106$"+Replace this use of System.out by a logger.( §‡İ8¶Íşíü1J$ed3d493d-685e-4630-8164-f9462d495352
+r	java:S106."+Replace this use of System.out by a logger.(Í¦ç´ıÿÿÿÿ8¶Íşíü1J$25073c74-43b8-4a7a-8b67-5446f8f32d8e
+r	java:S1064"+Replace this use of System.out by a logger.(ûãÁùùÿÿÿÿ8¶Íşíü1J$33b50267-8e2a-467d-b294-17430ea66d2c
+m	java:S106<"+Replace this use of System.out by a logger.(»•‚Û8¶Íşíü1J$a18d8558-3c92-4437-ac1e-aed1a4bab439
+r	java:S106>"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¶Íşíü1J$204cef76-5f69-4773-bae1-2233169ec719
+m	java:S106?"+Replace this use of System.out by a logger.(’ıÙ†8¶Íşíü1J$66f76565-f703-4c5f-8026-c5e76b170f0f
+m	java:S106M"+Replace this use of System.out by a logger.(Ææ Ï8¶Íşíü1J$ddbf0893-6d67-4dc8-b691-c6427d097f41
+r	java:S106W"+Replace this use of System.out by a logger.(¯ëã¦şÿÿÿÿ8¶Íşíü1J$661d3af7-e3db-45d6-8754-5cd5e78aba3b
+r	java:S106e"+Replace this use of System.out by a logger.(´Åøªùÿÿÿÿ8¶Íşíü1J$92980f53-1426-4790-adda-af28150d74a8
+r	java:S106h"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¶Íşíü1J$d1bfa215-8540-4246-9180-318d69e0a08c
+m	java:S106y"+Replace this use of System.out by a logger.(¬Š÷8¶Íşíü1J$dc263e0f-02a5-45e4-a6de-b6936a27850e
+n	java:S106…"+Replace this use of System.out by a logger.(´áèĞ8ÅÍşíü1J$ddc7ca35-0937-46a5-9bb4-67dad4706041
+s	java:S106‹"+Replace this use of System.out by a logger.(¢ÕÆ¹úÿÿÿÿ8æîü1J$6b3a76fd-4c3d-4786-bd48-fdb227f54575
+„	java:S125“"<This block of commented-out lines of code should be removed.(¯’©Ëüÿÿÿÿ8ÅÍşíü1J$d4839022-7819-4a31-8723-824d17a6b0f0
+„	java:S125˜"<This block of commented-out lines of code should be removed.(ùÀæãşÿÿÿÿ8ÅÍşíü1J$6de8c265-ab1b-4d42-b160-3af95875fd8b

@@ -1,7 +1,7 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(äã–8¹¦ Êú1J$e38f1e1a-f498-43dc-9222-05b281ecbc43
+r	java:S106
+"+Replace this use of System.out by a logger.(ùúªîıÿÿÿÿ8¶¦Âñü1J$ac331ec1-19e9-4999-9075-b5180109e61c
 c
-java:S2129" Remove this "String" constructor(ûƒÄò8¹¦ Êú1J$818fbce7-902c-40ae-8c44-410a0c469414
-r	java:S106"+Replace this use of System.out by a logger.(¹ÛúÆúÿÿÿÿ8¹¦ Êú1J$9d871cbd-633b-415e-b7dd-12caabfda25a
-u
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Õ¥Êú1J$d44453ce-6f0c-4ce7-9ed9-49cbb6da2a98
+java:S2129" Remove this "String" constructor(ûƒÄò8Å¦Âñü1J$d16a5a0a-06ba-4b1e-86f5-d66b976b0b25
+m	java:S106"+Replace this use of System.out by a logger.(Å¥Ÿ¬8Å¦Âñü1J$23a21892-043c-40af-9615-c51e8a3d5aaa
+m	java:S106"+Replace this use of System.out by a logger.(Ù©È±8Å¦Âñü1J$5752ee0d-b817-43e5-a48f-33f23cc610a9

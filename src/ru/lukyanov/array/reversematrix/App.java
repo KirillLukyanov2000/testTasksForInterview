@@ -2,7 +2,7 @@ package ru.lukyanov.array.reversematrix;
 
 public class App {
 
-    public static void reverseArr(int[][] inMatrix) {
+    public static void reverseMatrix(int[][] inMatrix) {
         int rows = inMatrix.length;
         int columns = inMatrix[0].length;
         int[][] matrix = new int[columns][rows];
@@ -27,6 +27,8 @@ public class App {
                 {4, 5, 6},
                 {7, 8, 9}
         };
-        reverseArr(matrix);
+        reverseMatrix(matrix);
+
     }
+
 }

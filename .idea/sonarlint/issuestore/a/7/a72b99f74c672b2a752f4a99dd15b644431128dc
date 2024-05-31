@@ -1,11 +1,8 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(…·»‹úÿÿÿÿ8±—¹«ù1J$25b97faf-96fb-4143-b8c6-a25d3a546ebd
-m	java:S106"+Replace this use of System.out by a logger.(ŸÏÍè8²—¹«ù1J$0d989b13-4ca6-4339-a95b-d28690a0de63
-r	java:S106"+Replace this use of System.out by a logger.(°­÷ïýÿÿÿÿ8²—¹«ù1J$48c2fffd-b861-471a-a722-caec3b3c7571
-r	java:S106"+Replace this use of System.out by a logger.(Å­ËÝúÿÿÿÿ8²—¹«ù1J$4e3eb7f6-37c7-4b84-ac68-8706afeee9b0
-r	java:S106"+Replace this use of System.out by a logger.(°Ù¼ãúÿÿÿÿ8³—¹«ù1J$e57d4327-c861-4cc6-af26-45f26fa15db8
-r	java:S106"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ8´—¹«ù1J$77e664bb-710c-47f2-9449-5047f364e75b
-s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8µ—¹«ù1J$d55cb893-0e79-4ff1-8cbd-bc2064922bb9
-z
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8¸ý»«ù1J$113744e2-963d-4c0e-9201-17ee453e58d7
+r	java:S106
+"+Replace this use of System.out by a logger.(…·»‹úÿÿÿÿ8±—¹«ù1J$b78805a0-8750-427a-a684-044089e7894b
+m	java:S106"+Replace this use of System.out by a logger.(ŸÏÍè8²—¹«ù1J$9caf533e-0ac9-4750-804a-700d4ccfca9b
+r	java:S106"+Replace this use of System.out by a logger.(°­÷ïýÿÿÿÿ8²—¹«ù1J$2e5f474a-36a3-4956-b6f5-0c15838b3748
+r	java:S106"+Replace this use of System.out by a logger.(Å­ËÝúÿÿÿÿ8²—¹«ù1J$88ef38c9-daca-43c1-a984-101ab1025f18
+r	java:S106"+Replace this use of System.out by a logger.(°Ù¼ãúÿÿÿÿ8³—¹«ù1J$acd19ad2-3b88-4fb4-b7a9-38d83d96701a
+r	java:S106"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ8´—¹«ù1J$539cbe5a-c3d4-489a-986a-96e174cdb6b5
