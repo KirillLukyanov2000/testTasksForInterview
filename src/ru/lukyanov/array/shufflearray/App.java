@@ -1,6 +1,6 @@
 package ru.lukyanov.array.shufflearray;
 
-import java.util.Random;
+import java.security.SecureRandom;
 
 public class App {
     public static void main(String[] args) {
@@ -12,9 +12,9 @@ public class App {
     }
 
     static void shuffleArray(int[] arr) {
-        Random rnd = new Random();
+        SecureRandom secureRandom = new SecureRandom();
         for (int i = arr.length - 1; i > 0; i--) {
-            int index = rnd.nextInt(i + 1);
+            int index = secureRandom.nextInt(i + 1);
             int temp = arr[index];
             arr[index] = arr[i];
             arr[i] = temp;

@@ -1,3 +1,5 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(ù£·êýÿÿÿÿ8¦¬º‰÷1J$eb801024-a055-41ea-9124-d11dce20738f
-m	java:S106"+Replace this use of System.out by a logger.(ïÍØƒ8«¬º‰÷1J$7439ab31-2d06-4af9-a261-aacd2492da95
+
+java:S4165%"bRemove this useless assignment; "arr2" already holds the assigned value along all execution paths.(·´¿Ï8÷Šñøû1
+L	java:S106""+Replace this use of System.out by a logger.(ù£·êýÿÿÿÿ8‡‹ñøû1
+G	java:S106&"+Replace this use of System.out by a logger.(ïÍØƒ8—‹ñøû1

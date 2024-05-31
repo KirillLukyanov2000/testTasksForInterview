@@ -1,12 +1,17 @@
 
-
-java:S1659">Declare "y" and all following declarations on a separate line.(á´ÕÈ8ËÛ°¡ú1J$0a040576-8a63-44f8-be81-4fd073c7ac2e
-m	java:S106"+Replace this use of System.out by a logger.(¤ƒ”™8ËÛ°¡ú1J$28d02054-f522-4883-98b3-9fcb69f073b2
-r	java:S106"+Replace this use of System.out by a logger.(¤àŸúÿÿÿÿ8ËÛ°¡ú1J$9530103e-9222-4457-a06c-339c8c0a2d08
-†
-java:S1659">Declare "b" and all following declarations on a separate line.(Šº×õøÿÿÿÿ8ËÛ°¡ú1J$101e38f6-3074-4584-99cc-22fbd8d95dbd
-r	java:S106""+Replace this use of System.out by a logger.(“è™İüÿÿÿÿ8ËÛ°¡ú1J$abe92235-39a3-4ed4-a3c1-18d1feeaebcd
-m	java:S106+"+Replace this use of System.out by a logger.( §‡İ8ËÛ°¡ú1J$0b4286d7-8bc1-40b0-813d-130abbbd312b
-m	java:S1062"+Replace this use of System.out by a logger.( §‡İ8ËÛ°¡ú1J$5d41f786-23aa-4b49-a30a-9203a12df590
-m	java:S106B"+Replace this use of System.out by a logger.(¬›Ä8ËÛ°¡ú1J$ddac7c55-66b8-4285-9ec5-51a60f9cfd5b
-m	java:S106F"+Replace this use of System.out by a logger.(¼²Óø8ËÛ°¡ú1J$974402dc-f2b1-44de-b46d-708e7e86fa58
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤æˆ8£¦¸êü1J$20aa3fb9-52e9-4d2c-97eb-74134e72ace7
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÃœÛï8£¦¸êü1J$32875114-3360-446e-89ed-4c545b09d45a
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹éÒĞ8£¦¸êü1J$12e07cbc-569c-44f7-895a-127733a3cca9
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óÏ£è8£¦¸êü1J$a71f0849-7ed3-4dba-a219-06ab435394f3
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø°–£8£¦¸êü1J$005f16ca-9080-47b2-8318-941e9c63995d
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(œ˜Öàûÿÿÿÿ8£¦¸êü1J$9af01bba-414a-42ff-bd3a-c5a8c84ee028
+r	java:S106"+Replace this use of System.out by a logger.(Í¦ç´ıÿÿÿÿ8£¦¸êü1J$abda084c-1d1b-4d8b-bf54-5651b5f5c0b1
+r	java:S106%"+Replace this use of System.out by a logger.(ûãÁùùÿÿÿÿ8£¦¸êü1J$f105d98a-b435-4f36-8dc3-0c5248fbde43
+m	java:S106/"+Replace this use of System.out by a logger.(õ şß8›©¿êü1J$c2b06306-de35-4cfc-ab27-31fed71388fe
+ƒ	java:S1253"<This block of commented-out lines of code should be removed.(ãèÌûşÿÿÿÿ8³¦¸êü1J$a08415b2-93b1-4039-997f-bd4ce3f85199

@@ -24,5 +24,10 @@ public class App {
     public static void main(String[] args) {
         Integer[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         System.out.println(Arrays.toString(reverseVar1(arr)));
+        Integer[] arr2 = {10, 20, 30, 40, 50, 60, 70, 80, 90};
+        System.out.println(Arrays.toString(reverseVar2(arr2)));
     }
+
+
+
 }

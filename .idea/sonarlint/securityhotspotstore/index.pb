@@ -7502,3 +7502,7 @@ X
 (src/ru/lukyanov/array/sumtwoarr/App.java,3\1\317f063543d7785938e5b6df451beb4c1ac343ca
 [
 +src/ru/lukyanov/array/shufflearray/App.java,f\f\ff53b4b16ddcfb62e0ba53f97bc1c14144c7a144
+\
+,src/ru/lukyanov/array/reverseMatrix/App.java,e\f\ef282b04cf701d469d024761838c6ca840b72e41
+\
+,src/ru/lukyanov/array/reversematrix/App.java,3\4\349e15fff7ab579ed3ca99aa0ce52137dee204d2

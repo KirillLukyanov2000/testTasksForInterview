@@ -2,77 +2,61 @@ package ru.lukyanov;
 
 public class Test {
 
-    public static boolean isPrime(int number) {
-        for (int i = 2; i < number; i++) {
-            if (number % i == 0) {
-                return false;
-            }
-        }
-        return true;
-    }
+    public static void isPrime(int number) {
 
+    }
     public static void isArmstrong(int num) {
-        int x = 0, y = 0, temp = 0;
-        temp = num;
-        while (num > 0) {
-            x = num % 10;
-            num = num / 10;
-            y = y + (x * x * x);
-        }
-        if (temp == y)
-            System.out.println(temp + " Данное число является числом Армстронга");
-        else
-            System.out.println(temp + " Данное число не является числом Армстронга");
+
     }
 
     public static void isFib(int num) {
-        int a = 0, b = 0, c = 1;
-        for (int i = 0; i <= num; i++) {
-            a = b;
-            b = c;
-            c = a + b;
-            System.out.println(a + " ");
-        }
+
     }
 
     public static void changeTwoNum1(int a, int b) {
-        int temp;
-        temp = a;
-        a = b;
-        b = temp;
-        System.out.println(a + " " + b);
+
     }
 
     public static void changeTwoNum2(int a, int b) {
-        a = a + b;
-        b = a - b;
-        a = a - b;
-        System.out.println(a + " " + b);
+
     }
 
     public static void findSecElem(int[] arr) {
-        int max1 = Integer.MIN_VALUE;
-        int max2 = Integer.MIN_VALUE;
 
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] > max1) {
-                max2 = max1;
-                max1 = arr[i];
-            } else if (arr[i] > max2 && arr[i] != max1) {
-                max2 = arr[i];
+    }
 
-            }
+    public static void isPalindrome(String str) {
+        StringBuilder stringBuilder = new StringBuilder(str);
+        String string = stringBuilder.reverse().toString();
+        System.out.println(str.equals(string));
+    }
+
+    public static void checkPalindr(String str) {
+        for (int i = 0; i < str.length()/2; i++) {
+            if (str.charAt(i) != str.charAt(str.length()-1-i))
+                System.out.println(false);
         }
-        System.out.println(max1 + " " + max2);
+    }
+
+    public static void revArr (String str) {
+        char[] charArray1 = str.toCharArray();
+        for (int i = 0; i < charArray1.length/2; i++) {
+            char temp = charArray1[i];
+            charArray1[i] = charArray1[charArray1.length-1-i];
+            charArray1[charArray1.length-1-i] = temp;
+        }System.out.println(new String(charArray1));
     }
 
     public static void main(String[] args) {
-        System.out.println(isPrime(10));
-        isFib(6);
-        changeTwoNum1(1, 2);
-        changeTwoNum2(1, 2);
-        int[] arr = {3, 2, 5, 1, 4, 8, 20, -10};
-        findSecElem(arr);
-        isArmstrong(371);
+//        System.out.println(isPrime(10));
+//        isFib(6);
+//        changeTwoNum1(1, 2);
+//        changeTwoNum2(1, 2);
+//        int[] arr = {3, 2, 5, 1, 4, 8, 20, -10};
+//        findSecElem(arr);
+//        isArmstrong(371);
+isPalindrome("TeneT");
+revArr("TeneT");
+checkPalindr("Tenet");
     }
 }

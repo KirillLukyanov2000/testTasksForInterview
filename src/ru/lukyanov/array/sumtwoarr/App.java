@@ -25,6 +25,6 @@ public class App {
         System.arraycopy(arr3, 0, sumarr2, 0, arr1.length);
         System.arraycopy(arr4, 0, sumarr2, arr3.length, arr2.length);
         System.out.println(Arrays.toString(sumarr2));
-    }
 
+    }
 }
