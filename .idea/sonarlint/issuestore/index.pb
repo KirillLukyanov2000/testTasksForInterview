@@ -7404,3 +7404,7 @@ Z
 .src/ru/lukyanov/sorting/insertionsort/App.java,b\3\b3b9326ace16fb3d2d9f0e4db91d49ab0430a826
 Z
 *src/ru/lukyanov/sorting/mergesort/App.java,c\6\c6c861944649b5d91b498eacc95abd3966e0257d
+]
+-src/ru/lukyanov/sorting/binarysearch/App.java,e\7\e71ed7cfb2f5cb23f31eaa9cdd6a572322c3fe4d
+]
+-src/ru/lukyanov/sorting/linearsearch/App.java,5\8\58455a9ac57d9be64bf8f55ed2c83169299ecd77

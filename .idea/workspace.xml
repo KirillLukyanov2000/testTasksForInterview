@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="numbers and arrays tasks added">
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="sorting tasks added">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/914dc30d3c69ab83986d92da92d4fc24e0abf3ff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/914dc30d3c69ab83986d92da92d4fc24e0abf3ff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d14cd79282b1f2dbb2bd1a0e933496ced78b770f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d14cd79282b1f2dbb2bd1a0e933496ced78b770f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/sorting/bubblesort/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/sorting/bubblesort/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +75,10 @@
     "Application.ru.lukyanov.numbers.getlastnumber.App.executor": "Run",
     "Application.ru.lukyanov.numbers.isArmstrongNum.App.executor": "Run",
     "Application.ru.lukyanov.numbers.isaprime.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.binarysearch.App.executor": "Run",
     "Application.ru.lukyanov.sorting.bubblesort.App.executor": "Run",
     "Application.ru.lukyanov.sorting.improvedselectionsort.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.linearsearch.App.executor": "Run",
     "Application.ru.lukyanov.strings.checkanagramm.App.executor": "Run",
     "Application.ru.lukyanov.strings.checkpalindrome.App.executor": "Run",
     "Application.ru.lukyanov.strings.countcharsinstring.App.executor": "Run",
@@ -92,15 +93,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="App" />
-      <module name="testTasksForInterview" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ru.lukyanov.sorting.bubblesort.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.insertionsort.App" />
       <module name="testTasksForInterview" />
@@ -127,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.numbers.isaprime.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.isaprime.App" />
+    <configuration name="ru.lukyanov.sorting.binarysearch.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.binarysearch.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.numbers.isaprime.*" />
+          <option name="PATTERN" value="ru.lukyanov.sorting.binarysearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +146,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.lukyanov.sorting.linearsearch.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.linearsearch.App" />
+      <module name="testTasksForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lukyanov.sorting.linearsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.lukyanov.sorting.bubblesort.App" />
+        <item itemvalue="Application.ru.lukyanov.sorting.linearsearch.App" />
+        <item itemvalue="Application.ru.lukyanov.sorting.binarysearch.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ru.lukyanov.sorting.bubblesort.App" />
-        <item itemvalue="Application.ru.lukyanov.numbers.isaprime.App" />
-        <item itemvalue="Application.App (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717151449003</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="sorting tasks added">
+      <option name="closed" value="true" />
+      <created>1717397779881</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1717397779881</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -406,6 +420,7 @@
     <MESSAGE value="Armstrong numbers task added" />
     <MESSAGE value="numbers task revised" />
     <MESSAGE value="numbers and arrays tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="numbers and arrays tasks added" />
+    <MESSAGE value="sorting tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting tasks added" />
   </component>
 </project>
