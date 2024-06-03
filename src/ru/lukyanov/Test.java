@@ -140,6 +140,25 @@ public class Test {
         }
     }
 
+    public static void bubSort(int[] arr) {
+
+        boolean sorted = false;
+        int temp;
+
+        while (!sorted) {
+            sorted = true;
+            for (int i = 0; i < arr.length - 1; i++) {
+                if (arr[i] > arr[i + 1]) {
+                    temp = arr[i];
+                    arr[i] = arr[i + 1];
+                    arr[i + 1] = temp;
+                    sorted = false;
+                }
+            }
+        }
+        System.out.println(Arrays.toString(arr));
+    }
+
     public static void main(String[] args) {
         isPrime(11);
         revStringArr("ИНТЕРВЬЮ ДЛЯ JAVA РАЗРАБОТЧИКА");
@@ -149,7 +168,8 @@ public class Test {
         changeTwoNum2(1, 2);
         countRepeatedWords("В этой программе мы используем арифметические операции сложения и вычитания, чтобы поменять значения местами. Сначала мы добавляем значения a и b и присваиваем результат a. Затем мы вычитаем значение b из a и присваиваем результат b. Наконец, мы вычитаем значение b из a и присваиваем результат a. Таким образом, значения a и b меняются местами");
         iterMap();
-        //        int[] arr = {3, 2, 5, 1, 4, 8, 20, -10};
+           int[] arr = {3, 2, 5, 1, 4, 8, 20, -10};
+           bubSort(arr);
 //        findSecElem(arr);
 //        isArmstrong(371);
 //isPalindrome("TeneT");

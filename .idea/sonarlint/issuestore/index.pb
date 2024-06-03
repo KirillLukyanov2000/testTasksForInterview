@@ -7396,3 +7396,11 @@ X
 ,src/ru/lukyanov/array/reversematrix/App.java,3\4\349e15fff7ab579ed3ca99aa0ce52137dee204d2
 b
 2src/ru/lukyanov/collections/mapiterations/App.java,3\5\35e19783141eb68a4dcb20c338eaaaf77ac02a68
+Z
+*src/ru/lukyanov/sorting/quicksort/App.java,4\a\4aca25385970ddea0f61f718605e3dcd0e6a5ba4
+[
++src/ru/lukyanov/sorting/greedysort/App.java,5\8\5880cc32001506bd5de51a743c3a14f2587186cc
+^
+.src/ru/lukyanov/sorting/insertionsort/App.java,b\3\b3b9326ace16fb3d2d9f0e4db91d49ab0430a826
+Z
+*src/ru/lukyanov/sorting/mergesort/App.java,c\6\c6c861944649b5d91b498eacc95abd3966e0257d
