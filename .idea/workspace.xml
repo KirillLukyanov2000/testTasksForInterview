@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="sorting tasks added">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/914dc30d3c69ab83986d92da92d4fc24e0abf3ff" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/914dc30d3c69ab83986d92da92d4fc24e0abf3ff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d14cd79282b1f2dbb2bd1a0e933496ced78b770f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d14cd79282b1f2dbb2bd1a0e933496ced78b770f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/sorting/bubblesort/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/sorting/bubblesort/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="search tasks added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -394,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717397779881</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="search tasks added">
+      <option name="closed" value="true" />
+      <created>1717399489660</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1717399489660</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,6 +422,7 @@
     <MESSAGE value="numbers task revised" />
     <MESSAGE value="numbers and arrays tasks added" />
     <MESSAGE value="sorting tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="sorting tasks added" />
+    <MESSAGE value="search tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="search tasks added" />
   </component>
 </project>
