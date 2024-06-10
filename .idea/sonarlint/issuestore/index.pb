@@ -7408,3 +7408,7 @@ Z
 -src/ru/lukyanov/sorting/binarysearch/App.java,e\7\e71ed7cfb2f5cb23f31eaa9cdd6a572322c3fe4d
 ]
 -src/ru/lukyanov/sorting/linearsearch/App.java,5\8\58455a9ac57d9be64bf8f55ed2c83169299ecd77
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+`
+0src/ru/lukyanov/numbers/getsumofnumbers/App.java,8\8\88899f5bd0c6f6f9a3a4a5c653491c5e29cd7b77

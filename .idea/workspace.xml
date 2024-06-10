@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="search tasks added" />
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="sorting tasks added">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/getlastnumber/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/getlastnumber/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +71,7 @@
     "Application.ru.lukyanov.numbers.countfactorial.App.executor": "Run",
     "Application.ru.lukyanov.numbers.finddivisors.App.executor": "Run",
     "Application.ru.lukyanov.numbers.getlastnumber.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.getsumofnumbers.App.executor": "Run",
     "Application.ru.lukyanov.numbers.isArmstrongNum.App.executor": "Run",
     "Application.ru.lukyanov.numbers.isaprime.App.executor": "Run",
     "Application.ru.lukyanov.sorting.binarysearch.App.executor": "Run",
@@ -86,13 +92,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ru.lukyanov.sorting.bubblesort.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.insertionsort.App" />
+  <component name="RunManager" selected="Application.ru.lukyanov.numbers.getsumofnumbers.App">
+    <configuration name="ru.lukyanov.numbers.getlastnumber.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.getlastnumber.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.sorting.insertionsort.*" />
+          <option name="PATTERN" value="ru.lukyanov.numbers.getlastnumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.Test" />
+    <configuration name="ru.lukyanov.numbers.getsumofnumbers.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.getsumofnumbers.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.*" />
+          <option name="PATTERN" value="ru.lukyanov.numbers.getsumofnumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.lukyanov.numbers.getsumofnumbers.App" />
+        <item itemvalue="Application.ru.lukyanov.numbers.getlastnumber.App" />
         <item itemvalue="Application.ru.lukyanov.sorting.bubblesort.App" />
         <item itemvalue="Application.ru.lukyanov.sorting.linearsearch.App" />
         <item itemvalue="Application.ru.lukyanov.sorting.binarysearch.App" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717399489660</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="sorting tasks added">
+      <option name="closed" value="true" />
+      <created>1717497616704</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1717497616704</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,8 +435,8 @@
     <MESSAGE value="Armstrong numbers task added" />
     <MESSAGE value="numbers task revised" />
     <MESSAGE value="numbers and arrays tasks added" />
-    <MESSAGE value="sorting tasks added" />
     <MESSAGE value="search tasks added" />
-    <option name="LAST_COMMIT_MESSAGE" value="search tasks added" />
+    <MESSAGE value="sorting tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="sorting tasks added" />
   </component>
 </project>
