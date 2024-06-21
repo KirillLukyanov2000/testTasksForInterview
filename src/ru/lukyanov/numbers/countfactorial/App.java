@@ -1,6 +1,5 @@
 package ru.lukyanov.numbers.countfactorial;
 
-
 public class App {
 
     public static int countFactorialV1(int num) {
@@ -19,10 +18,10 @@ public class App {
         return n;
     }
 
-
     public static void main(String[] args) {
         System.out.println(countFactorialV1(31)); //max factorial num for int
         System.out.println(countFactorialV2(39)); //max factorial num for long
 
     }
+
 }

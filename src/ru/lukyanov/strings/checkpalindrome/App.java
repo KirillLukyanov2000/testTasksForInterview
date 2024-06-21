@@ -1,6 +1,5 @@
 package ru.lukyanov.strings.checkpalindrome;
 
-
 public class App {
 
     public static boolean isPalindromeVar1(String string) {
@@ -51,4 +50,5 @@ public class App {
         revStrV1("Учимся программировать");
         revStrV2("Учимся программировать");
     }
+
 }

@@ -13,7 +13,8 @@ public class App {
         }
         for (int i = 0; i < str2.length(); i++) {
             char c = str2.charAt(i);
-            if (--charCounts[c] < 0) { // уменьшаем счетчик в массиве для символов второй строки и проверяем, что он не станет отрицательным
+            charCounts[c]--;
+            if (charCounts[c] < 0) { // уменьшаем счетчик в массиве для символов второй строки и проверяем, что он не станет отрицательным
                 return false;
             }
         }
@@ -23,7 +24,10 @@ public class App {
     public static void main(String[] args) {
         String str1 = "Tenet";
         String str2 = "Ttnee";
+        String str3 = "TTnff";
         System.out.println(checkAnagram(str1, str2));
+        System.out.println(checkAnagram(str2, str3));
+
     }
 
 }
