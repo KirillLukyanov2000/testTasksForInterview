@@ -1,7 +1,4 @@
-package ru.lukyanov.numbers.isArmstrongNum;
-
-import java.util.Objects;
-import java.util.Set;
+package ru.lukyanov.numbers.isarmstrongnum;
 
 public class App {
 

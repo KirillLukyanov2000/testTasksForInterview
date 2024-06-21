@@ -1,7 +1,5 @@
 
 r	java:S106
-"+Replace this use of System.out by a logger.(ùúªîýÿÿÿÿ8¶¦Âñü1J$ac331ec1-19e9-4999-9075-b5180109e61c
-c
-java:S2129" Remove this "String" constructor(ûƒÄò8Å¦Âñü1J$d16a5a0a-06ba-4b1e-86f5-d66b976b0b25
-m	java:S106"+Replace this use of System.out by a logger.(Å¥Ÿ¬8Å¦Âñü1J$23a21892-043c-40af-9615-c51e8a3d5aaa
-m	java:S106"+Replace this use of System.out by a logger.(Ù©È±8Å¦Âñü1J$5752ee0d-b817-43e5-a48f-33f23cc610a9
+"+Replace this use of System.out by a logger.(ùúªîýÿÿÿÿ8ä£ÔÒƒ2J$6b4efdef-cfab-4567-937c-da540452931c
+m	java:S106"+Replace this use of System.out by a logger.(Å¥Ÿ¬8ä£ÔÒƒ2J$d38761e7-97c4-44bf-9ccd-07732de501a1
+m	java:S106"+Replace this use of System.out by a logger.(Ù©È±8ä£ÔÒƒ2J$0219a740-b223-4815-bda2-4e793d3d0c10

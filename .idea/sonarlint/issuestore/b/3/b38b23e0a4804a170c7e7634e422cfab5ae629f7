@@ -1,10 +1,5 @@
 
 †
-java:S1659	">Declare "y" and all following declarations on a separate line.(³©ïøÿÿÿÿ8™î­ù1J$21c7a669-cdc3-4f15-81a4-2781fa395276
-r	java:S106
-"+Replace this use of System.out by a logger.(Âæì¬ıÿÿÿÿ8î­ù1J$64942d54-efe3-48ba-87dc-fd4b113b44f3
-m	java:S106"+Replace this use of System.out by a logger.(·Š·£8î­ù1J$83f95072-7718-4169-a754-a673db37f083
-r
-java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8 î­ù1J$951904e5-2225-4693-bd16-531df56300d4
-s
-java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8 î­ù1J$48ff8800-a598-4005-a38b-9e268349eb89
+java:S1659">Declare "y" and all following declarations on a separate line.(³©ïøÿÿÿÿ8³ğĞƒ2J$504ae6aa-0f6c-4f8a-a9f6-b5943e14dd48
+r	java:S106"+Replace this use of System.out by a logger.(Âæì¬ıÿÿÿÿ8ÂğĞƒ2J$cf1fc7a7-bf35-4b05-8f2b-4a5f2b1bc1a6
+m	java:S106"+Replace this use of System.out by a logger.(·Š·£8ÓğĞƒ2J$529bfdd9-440a-46a1-b1a6-f2966320465a

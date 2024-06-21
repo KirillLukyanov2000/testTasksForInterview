@@ -13,7 +13,7 @@ public class App {
     }
 
     public static void isAPrimeVar2(int number) {
-        BigInteger bigInteger = new BigInteger(new String(String.valueOf(number)));
+        BigInteger bigInteger = new BigInteger(String.valueOf(number));
         System.out.println(bigInteger.isProbablePrime(1) + " " + number);
     }
 
@@ -29,7 +29,6 @@ public class App {
                 System.out.print(i + "  ");
         }
     }
-
 
     public static void main(String[] args) {
         isAPrimeVar1(4);

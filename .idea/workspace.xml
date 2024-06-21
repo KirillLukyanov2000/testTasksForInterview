@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="numbers sorting tasks added">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcc26b9e74de1c745cfa343078ef423a1b980163" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcc26b9e74de1c745cfa343078ef423a1b980163" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e5c9f691de5ffcdc650ecf376e57f1db099daa9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e5c9f691de5ffcdc650ecf376e57f1db099daa9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b38b23e0a4804a170c7e7634e422cfab5ae629f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b38b23e0a4804a170c7e7634e422cfab5ae629f7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb7f72fdd7dba47d42d92c992d7591e9886d244a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb7f72fdd7dba47d42d92c992d7591e9886d244a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0718e2c8f6bdc648903c496f851cedd8b16b16b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0718e2c8f6bdc648903c496f851cedd8b16b16b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/changetwonumbers/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/changetwonumbers/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfactorial/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfactorial/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/strings/checkanagramm/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/strings/checkanagramm/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfibonacci/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/countfibonacci/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/finddivisors/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/finddivisors/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/getlastnumber/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/getlastnumber/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/lukyanov/numbers/isaprime/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/lukyanov/numbers/isaprime/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,58 +52,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.arraysintersection.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.averagenum.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.fill2darray.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.findrepeatedelement.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.findsecondbiggestelement.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.movezerostotheendofarr.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.numbertoarray.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.reverseMatrix.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.reversearr.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.shufflearray.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.sumtwoarr.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.cleararraylist.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.listiterations.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.mapiterations.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.changetwonumbers.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.countfactorial.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.finddivisors.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.getlastnumber.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.getsumofnumbers.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.isArmstrongNum.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.isaprime.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.binarysearch.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.bubblesort.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.improvedselectionsort.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.linearsearch.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.checkanagramm.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.checkpalindrome.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.countcharsinstring.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.countrepeatedcharsinstring.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App (1).executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ru.lukyanov.array.arraysintersection.App.executor": "Run",
+    "Application.ru.lukyanov.array.averagenum.App.executor": "Run",
+    "Application.ru.lukyanov.array.fill2darray.App.executor": "Run",
+    "Application.ru.lukyanov.array.findrepeatedelement.App.executor": "Run",
+    "Application.ru.lukyanov.array.findsecondbiggestelement.App.executor": "Run",
+    "Application.ru.lukyanov.array.movezerostotheendofarr.App.executor": "Run",
+    "Application.ru.lukyanov.array.numbertoarray.App.executor": "Run",
+    "Application.ru.lukyanov.array.reverseMatrix.App.executor": "Run",
+    "Application.ru.lukyanov.array.reversearr.App.executor": "Run",
+    "Application.ru.lukyanov.array.shufflearray.App.executor": "Run",
+    "Application.ru.lukyanov.array.sumtwoarr.App.executor": "Run",
+    "Application.ru.lukyanov.collections.cleararraylist.App.executor": "Run",
+    "Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor": "Run",
+    "Application.ru.lukyanov.collections.listiterations.App.executor": "Run",
+    "Application.ru.lukyanov.collections.mapiterations.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.changetwonumbers.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.countfactorial.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.countfibonacci.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.finddivisors.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.getlastnumber.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.getsumofnumbers.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.isArmstrongNum.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.isaprime.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.binarysearch.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.bubblesort.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.improvedselectionsort.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.linearsearch.App.executor": "Run",
+    "Application.ru.lukyanov.strings.checkanagramm.App.executor": "Run",
+    "Application.ru.lukyanov.strings.checkpalindrome.App.executor": "Run",
+    "Application.ru.lukyanov.strings.countcharsinstring.App.executor": "Run",
+    "Application.ru.lukyanov.strings.countrepeatedcharsinstring.App.executor": "Run",
+    "Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor": "Run",
+    "Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.strings.checkanagramm.App" />
+}]]></component>
+  <component name="RunManager" selected="Application.ru.lukyanov.numbers.isaprime.App">
+    <configuration name="ru.lukyanov.numbers.countfactorial.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.countfactorial.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.strings.checkanagramm.*" />
+          <option name="PATTERN" value="ru.lukyanov.numbers.countfactorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.lukyanov.numbers.countfibonacci.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.countfibonacci.App" />
+      <module name="testTasksForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lukyanov.numbers.countfibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,25 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.sorting.bubblesort.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.bubblesort.App" />
+    <configuration name="ru.lukyanov.numbers.isaprime.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.isaprime.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.sorting.bubblesort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ru.lukyanov.sorting.linearsearch.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.sorting.linearsearch.App" />
-      <module name="testTasksForInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.lukyanov.sorting.linearsearch.*" />
+          <option name="PATTERN" value="ru.lukyanov.numbers.isaprime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.ru.lukyanov.numbers.isaprime.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.getsumofnumbers.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.getlastnumber.App" />
-        <item itemvalue="Application.ru.lukyanov.sorting.bubblesort.App" />
-        <item itemvalue="Application.ru.lukyanov.sorting.linearsearch.App" />
+        <item itemvalue="Application.ru.lukyanov.numbers.countfibonacci.App" />
+        <item itemvalue="Application.ru.lukyanov.numbers.countfactorial.App" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718016390824</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="numbers sorting tasks added">
+      <option name="closed" value="true" />
+      <created>1718958415387</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1718958415387</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
