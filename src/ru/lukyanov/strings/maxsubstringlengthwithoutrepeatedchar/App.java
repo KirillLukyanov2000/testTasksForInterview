@@ -26,6 +26,9 @@ public class App {
 
     public static void main(String[] args) {
         String str = "Алгоритм работает за время O(n), где n - длина строки s.";
+        String str1 = "ааааааааааыз";
         System.out.println(lengthOfLongestSubstring(str));
+        System.out.println(lengthOfLongestSubstring(str1));
     }
+
 }

@@ -11,7 +11,6 @@ public class App {
         for (int i = 0; i < charCounts.length; i++) {
             if (charCounts[i] > 1) {
                 System.out.println((char) i + " : повторяется " + charCounts[i] + " раз(а)"); // выводим результат для каждого символа с количеством вхождений больше 1
-
             }
         }
     }
@@ -21,7 +20,7 @@ public class App {
         for (int i = 0; i < arr.length; i++) {
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[i] == arr[j]) {
-                    System.out.println(arr[i]);
+                    System.out.print(arr[i]);
                 }
             }
         }
@@ -33,4 +32,5 @@ public class App {
         String str2 = "Hello World";
         countCharsV2(str2);
     }
+
 }

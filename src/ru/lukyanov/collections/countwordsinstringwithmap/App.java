@@ -6,7 +6,6 @@ import java.util.Map;
 
 public class App {
 
-
     public static void countWords(String str) {
         String[] arr = str.split(" ");
         Map<String, Integer> map = new HashMap<>();
@@ -37,6 +36,10 @@ public class App {
             Map.Entry <Integer, String> count = (Map.Entry) iterator.next();
             System.out.println(count.getKey() + " " + count.getValue());
         }
+
+        for (Integer i : integerStringMap.keySet()) {
+            System.out.println(integerStringMap.get(i));
+        }
     }
 
     public static void main(String[] args) {
@@ -44,4 +47,5 @@ String str = "Напишите программу на Java для подсче�
     countWords(str);
     iterMap();
     }
+
 }

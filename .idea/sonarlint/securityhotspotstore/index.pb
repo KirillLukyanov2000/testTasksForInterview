@@ -7524,3 +7524,5 @@ Z
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 `
 0src/ru/lukyanov/numbers/getsumofnumbers/App.java,8\8\88899f5bd0c6f6f9a3a4a5c653491c5e29cd7b77
+_
+/src/ru/lukyanov/numbers/isarmstrongnum/App.java,c\4\c461f63fc93aab7d32bf017aefc32508095b1252

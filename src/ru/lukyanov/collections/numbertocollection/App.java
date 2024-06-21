@@ -3,7 +3,6 @@ package ru.lukyanov.collections.numbertocollection;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class App {
 
     public static void main(String[] args) {
@@ -15,4 +14,5 @@ public class App {
         }
         System.out.println(list.reversed());
     }
+
 }

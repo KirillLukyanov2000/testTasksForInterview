@@ -12,11 +12,24 @@ public class App {
             System.out.println(integerStringEntry.getKey() + " " + integerStringEntry.getValue());
         }
         System.out.println();
+
         Iterator<Map.Entry<Integer, String>> iterator = integerStringMap.entrySet().iterator();
         while (iterator.hasNext()) {
             Map.Entry<Integer, String> next = iterator.next();
             System.out.println(next.getKey() + " " + next.getValue());
         }
+
+        integerStringMap.entrySet().removeIf(next -> next.getValue().contains("str1"));
+        System.out.println(integerStringMap);
+
+        Iterator<Map.Entry<Integer, String>> iterator2 = integerStringMap.entrySet().iterator();
+        while (iterator2.hasNext()) {
+            Map.Entry<Integer, String> next = iterator2.next();
+            if (next.getValue().contains("str2")) {
+                iterator2.remove();
+            }
+        }
+        System.out.println(integerStringMap);
     }
 
     public static void main(String[] args) {

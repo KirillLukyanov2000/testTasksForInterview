@@ -1,6 +1,9 @@
 
 r
-java:S3740#"/Provide the parametrized type for this generic.(¯¿†8ƒ˜±ø1J$c57aca75-1b6a-4280-a4e9-0e3ee197624e
-m	java:S106"+Replace this use of System.out by a logger.(µˆœÑ8 ƒ˜±ø1J$e716754b-49f9-4214-975c-4cc996a1e781
-m	java:S106 "+Replace this use of System.out by a logger.(´áèĞ8 ƒ˜±ø1J$83582fad-972a-4210-b422-8550ca3122f0
-m	java:S106&"+Replace this use of System.out by a logger.(êÑ™‡8 ƒ˜±ø1J$46875636-0cc3-47f6-a85a-146ef7d93fc8
+java:S3740""/Provide the parametrized type for this generic.(¯¿†8Óú•Ôƒ2J$f42eebe6-6bfb-4731-b0ad-fb2e8bb984c5
+m	java:S106"+Replace this use of System.out by a logger.(µˆœÑ8âú•Ôƒ2J$15f891d7-5c16-4c1e-be5e-033a90030f6c
+m	java:S106"+Replace this use of System.out by a logger.(´áèĞ8âú•Ôƒ2J$9312e50b-35ee-411b-97b5-c786c23021d4
+m	java:S106%"+Replace this use of System.out by a logger.(êÑ™‡8âú•Ôƒ2J$5d01a802-83d1-4da5-9a31-24324d847696
+|
+java:S2864("4Iterate over the "entrySet" instead of the "keySet".(–©À‘ÿÿÿÿÿ8âú•Ôƒ2J$db58ffc9-1d8a-4cc4-bb4f-fff6125ad51a
+m	java:S106)"+Replace this use of System.out by a logger.(–şÈ¨8âú•Ôƒ2J$d055d682-b98a-47cd-bdb0-9af92f07afc2

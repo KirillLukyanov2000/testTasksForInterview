@@ -24,6 +24,6 @@ public class App {
 //        List<Integer> unmodlist2 = List.of(4,5,6);  //UnsupportedOperationException ImmutableCollections
 //        clearArrayList(unmodlist2);
 
-
     }
+
 }

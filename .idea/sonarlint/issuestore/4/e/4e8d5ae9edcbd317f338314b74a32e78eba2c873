@@ -1,15 +1,11 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘°ûÜ8‘ƒùÉú1J$03ed8f69-1e87-464e-aeba-6056d51cbf4b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘°ûÜ8‘ƒùÉú1J$0521b5e4-5df3-44bb-bf36-21059d8cb1fb
 
-java:S1659	">Declare "y" and all following declarations on a separate line.(á´ÕÈ8³ƒùÉú1J$4ac88492-15e4-441a-9de8-9a0a40c59a17
-m	java:S106"+Replace this use of System.out by a logger.(¤ƒ”™8³ƒùÉú1J$8c55ffd5-878c-4985-a557-b6070236fe04
-r	java:S106"+Replace this use of System.out by a logger.(¤àŸúÿÿÿÿ8ÃƒùÉú1J$a60fbb3c-6e57-4c0e-b4c7-58464ec1e11e
+java:S1659">Declare "y" and all following declarations on a separate line.(á´ÕÈ8³ƒùÉú1J$1dba5610-201a-42d1-9591-7249d3455f20
+m	java:S106"+Replace this use of System.out by a logger.(¤ƒ”™8³ƒùÉú1J$69200291-aa48-4bb3-9c76-f34f91306ece
+r	java:S106"+Replace this use of System.out by a logger.(¤àŸúÿÿÿÿ8ÃƒùÉú1J$122126f6-5b48-4379-add5-dfd232d78fd9
 €
-java:S1659">Declare "y" and all following declarations on a separate line.(°ì¬}8ÃƒùÉú1J$1985c430-f437-473e-9846-21b3ea509556
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ú¼øÿÿÿÿÿ8ÃƒùÉú1J$fdd7c52e-49c5-4b11-b469-b8c617aa2b7c
-m	java:S106&"+Replace this use of System.out by a logger.(ôïÑ§8ÃƒùÉú1J$081bbb0c-1ef9-4f4b-a89c-7dd2f785e7cb
-m	java:S106("+Replace this use of System.out by a logger.(©‘Àù8ÃƒùÉú1J$1fac75f0-5efe-43a7-ab49-63ad5b76fd6f
-q
-java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ÃƒùÉú1J$ca79d615-cfc2-48ce-86f8-d0fd8dc7add0
-r
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ÃƒùÉú1J$9f5618ed-c287-4a07-9dc1-1a095363cab6
+java:S1659">Declare "y" and all following declarations on a separate line.(°ì¬}8ÃƒùÉú1J$baeb4a30-7a36-44eb-b664-3d19cd91ec76
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ú¼øÿÿÿÿÿ8ÃƒùÉú1J$128f01ae-94aa-4562-8ebe-95f4cf5bf3b9
+m	java:S106#"+Replace this use of System.out by a logger.(ôïÑ§8ÃƒùÉú1J$c9d9a96e-c8de-403b-b679-86c3e20f1d67
+m	java:S106%"+Replace this use of System.out by a logger.(©‘Àù8ÃƒùÉú1J$e5f6c3df-e5d9-443d-865f-154e41fcec3b
