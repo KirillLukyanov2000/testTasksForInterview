@@ -7414,3 +7414,9 @@ Z
 0src/ru/lukyanov/numbers/getsumofnumbers/App.java,8\8\88899f5bd0c6f6f9a3a4a5c653491c5e29cd7b77
 _
 /src/ru/lukyanov/numbers/isarmstrongnum/App.java,c\4\c461f63fc93aab7d32bf017aefc32508095b1252
+M
+src/ru/lukyanov/FizzBuzz.java,0\0\00970312ea3febad8d5bcc91119ee19941b9a354
+Q
+!src/ru/lukyanov/FizzBuzzTest.java,0\c\0cd89198a1167e0b90d6c382de910eb2524b7fa5
+J
+src/test/FizzBuzzTest.java,a\f\af362ec428edd9374c51be30fbe78a951e3cc143
