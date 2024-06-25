@@ -7530,5 +7530,5 @@ M
 src/ru/lukyanov/FizzBuzz.java,0\0\00970312ea3febad8d5bcc91119ee19941b9a354
 Q
 !src/ru/lukyanov/FizzBuzzTest.java,0\c\0cd89198a1167e0b90d6c382de910eb2524b7fa5
-J
-src/test/FizzBuzzTest.java,a\f\af362ec428edd9374c51be30fbe78a951e3cc143
+S
+#src/ru/lukyanov/ImmutableClass.java,c\7\c76bd7866d25fd876f6333de181e4221d0986572
