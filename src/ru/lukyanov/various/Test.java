@@ -1,4 +1,4 @@
-package ru.lukyanov;
+package ru.lukyanov.various;
 
 import java.util.*;
 

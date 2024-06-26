@@ -1,4 +1,4 @@
-package ru.lukyanov;
+package ru.lukyanov.various;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
