@@ -7534,3 +7534,7 @@ Y
 )src/ru/lukyanov/various/FizzBuzzTest.java,4\5\45b8e5b03d1baecb32691850797d0fadbc0de00f
 _
 /src/ru/lukyanov/numbers/reverseinteger/App.java,8\e\8e03f19162e35154e113ca44578a4aff52374bdc
+m
+=src/ru/lukyanov/collections/removeduplicatesfromlist/App.java,7\8\78c101b6800e763c0011abc23dc2bf1b7e1a7479
+\
+,src/ru/lukyanov/numbers/climbstairs/App.java,a\e\ae9870e6bb630f5500f6aa0e905ff5bf0ba317c3
