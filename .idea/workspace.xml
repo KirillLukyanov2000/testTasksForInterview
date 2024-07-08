@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="reverseinteger task added">
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="numbers tasks added">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -55,6 +55,7 @@
     "Application.Test.executor": "Run",
     "Application.ru.lukyanov.array.arraysintersection.App.executor": "Run",
     "Application.ru.lukyanov.array.averagenum.App.executor": "Run",
+    "Application.ru.lukyanov.array.countislandsin2darray.App.executor": "Run",
     "Application.ru.lukyanov.array.fill2darray.App.executor": "Run",
     "Application.ru.lukyanov.array.findrepeatedelement.App.executor": "Run",
     "Application.ru.lukyanov.array.findsecondbiggestelement.App.executor": "Run",
@@ -117,7 +118,7 @@
       <recent name="ru.lukyanov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.lukyanov.numbers.climbstairs.App">
+  <component name="RunManager" selected="Application.ru.lukyanov.array.countislandsin2darray.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.getlastnumber.App" />
       <module name="testTasksForInterview" />
@@ -131,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.collections.genericlisttoarr.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.collections.genericlisttoarr.App" />
+    <configuration name="ru.lukyanov.array.countislandsin2darray.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.countislandsin2darray.App" />
       <module name="testTasksForInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.lukyanov.collections.genericlisttoarr.*" />
+          <option name="PATTERN" value="ru.lukyanov.array.countislandsin2darray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,29 +200,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testTasksForInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.lukyanov.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.lukyanov" />
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.FizzBuzzTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.lukyanov.array.countislandsin2darray.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.climbstairs.App" />
         <item itemvalue="Application.ru.lukyanov.collections.removeduplicatesfromlist.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.reverseinteger.App" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.ru.lukyanov.collections.genericlisttoarr.App" />
       </list>
     </recent_temporary>
   </component>
@@ -538,7 +523,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719834533497</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="numbers tasks added">
+      <option name="closed" value="true" />
+      <created>1720100541925</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1720100541925</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -559,7 +552,6 @@
     <MESSAGE value="array and sorting tasks added" />
     <MESSAGE value="array and sorting tasks edited" />
     <MESSAGE value="collection mod tasks added" />
-    <MESSAGE value="numbers tasks added" />
     <MESSAGE value="strings and collections tasks added" />
     <MESSAGE value="Armstrong numbers task added" />
     <MESSAGE value="numbers task revised" />
@@ -572,6 +564,7 @@
     <MESSAGE value="Immutable class impl added" />
     <MESSAGE value="Generic type to Arr task added" />
     <MESSAGE value="reverseinteger task added" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverseinteger task added" />
+    <MESSAGE value="numbers tasks added" />
+    <option name="LAST_COMMIT_MESSAGE" value="numbers tasks added" />
   </component>
 </project>
