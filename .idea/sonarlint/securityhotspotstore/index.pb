@@ -7542,3 +7542,9 @@ d
 4src/ru/lukyanov/array/countislandsin2darray/App.java,1\2\12912e050450f1f7ce7cf6a8556b60a175498278
 q
 Asrc/ru/lukyanov/collections/reversemultimapwithstreamapi/App.java,4\a\4a343f5e2ab0786cc09528487c82f83725d03771
+^
+.src/ru/lukyanov/collections/multiiterator.java,3\1\31b9c1cb3e956344bae2cfc717c42dbe18100ad1
+b
+2src/ru/lukyanov/collections/multiiterator/App.java,e\f\efcaecc77bf54cc3361915b74bdd3e084d013b2b
+l
+<src/ru/lukyanov/collections/multiiterator/MultiIterator.java,c\1\c10065393a7811ea28cebc61524a3ee52e3344fd

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="count islands 2D array task added">
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="reverse multimap with stream api task added">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -47,69 +47,70 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.arraysintersection.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.averagenum.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.countislandsin2darray.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.fill2darray.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.findrepeatedelement.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.findsecondbiggestelement.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.movezerostotheendofarr.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.numbertoarray.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.reverseMatrix.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.reversearr.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.shufflearray.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.array.sumtwoarr.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.cleararraylist.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.genericlisttoarr.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.listiterations.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.mapiterations.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.numbertocollection.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.collections.removeduplicatesfromlist.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.changetwonumbers.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.climbstairs.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.countfactorial.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.countfibonacci.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.finddivisors.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.getlastnumber.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.getsumofnumbers.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.isArmstrongNum.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.isaprime.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.numbers.reverseinteger.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.binarysearch.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.bubblesort.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.improvedselectionsort.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.sorting.linearsearch.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.checkanagramm.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.checkpalindrome.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.countcharsinstring.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.countrepeatedcharsinstring.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.FizzBuzzTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FizzBuzzTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.FizzBuzzTest.fizzBuzzTest.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App (1).executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.ru.lukyanov.array.arraysintersection.App.executor": "Run",
+    "Application.ru.lukyanov.array.averagenum.App.executor": "Run",
+    "Application.ru.lukyanov.array.countislandsin2darray.App.executor": "Run",
+    "Application.ru.lukyanov.array.fill2darray.App.executor": "Run",
+    "Application.ru.lukyanov.array.findrepeatedelement.App.executor": "Run",
+    "Application.ru.lukyanov.array.findsecondbiggestelement.App.executor": "Run",
+    "Application.ru.lukyanov.array.movezerostotheendofarr.App.executor": "Run",
+    "Application.ru.lukyanov.array.numbertoarray.App.executor": "Run",
+    "Application.ru.lukyanov.array.reverseMatrix.App.executor": "Run",
+    "Application.ru.lukyanov.array.reversearr.App.executor": "Run",
+    "Application.ru.lukyanov.array.shufflearray.App.executor": "Run",
+    "Application.ru.lukyanov.array.sumtwoarr.App.executor": "Run",
+    "Application.ru.lukyanov.collections.cleararraylist.App.executor": "Run",
+    "Application.ru.lukyanov.collections.countwordsinstringwithmap.App.executor": "Run",
+    "Application.ru.lukyanov.collections.genericlisttoarr.App.executor": "Run",
+    "Application.ru.lukyanov.collections.listiterations.App.executor": "Run",
+    "Application.ru.lukyanov.collections.mapiterations.App.executor": "Run",
+    "Application.ru.lukyanov.collections.numbertocollection.App.executor": "Run",
+    "Application.ru.lukyanov.collections.removeduplicatesfromlist.App.executor": "Run",
+    "Application.ru.lukyanov.collections.reversemultimapwithstreamapi.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.changetwonumbers.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.climbstairs.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.countfactorial.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.countfibonacci.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.finddivisors.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.getlastnumber.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.getsumofnumbers.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.isArmstrongNum.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.isaprime.App.executor": "Run",
+    "Application.ru.lukyanov.numbers.reverseinteger.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.binarysearch.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.bubblesort.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.improvedselectionsort.App.executor": "Run",
+    "Application.ru.lukyanov.sorting.linearsearch.App.executor": "Run",
+    "Application.ru.lukyanov.strings.checkanagramm.App.executor": "Run",
+    "Application.ru.lukyanov.strings.checkpalindrome.App.executor": "Run",
+    "Application.ru.lukyanov.strings.countcharsinstring.App.executor": "Run",
+    "Application.ru.lukyanov.strings.countrepeatedcharsinstring.App.executor": "Run",
+    "Application.ru.lukyanov.strings.maxsubstringlengthwithoutrepeatedchar.App.executor": "Run",
+    "Application.ru.lukyanov.strings.removefirstletterandreversestringlist.App.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.FizzBuzzTest (1).executor": "Run",
+    "JUnit.FizzBuzzTest.executor": "Run",
+    "JUnit.FizzBuzzTest.fizzBuzzTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -523,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720423744819</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="reverse multimap with stream api task added">
+      <option name="closed" value="true" />
+      <created>1720529434443</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1720529434443</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -558,6 +567,7 @@
     <MESSAGE value="reverseinteger task added" />
     <MESSAGE value="numbers tasks added" />
     <MESSAGE value="count islands 2D array task added" />
-    <option name="LAST_COMMIT_MESSAGE" value="count islands 2D array task added" />
+    <MESSAGE value="reverse multimap with stream api task added" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse multimap with stream api task added" />
   </component>
 </project>
