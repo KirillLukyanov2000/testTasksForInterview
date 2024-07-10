@@ -7546,3 +7546,5 @@ l
 <src/ru/lukyanov/collections/multiiterator/MultiIterator.java,c\1\c10065393a7811ea28cebc61524a3ee52e3344fd
 V
 &src/ru/lukyanov/various/RobotFoot.java,8\c\8c179c58f0f3f2ad950aa477de8a55da9c545229
+a
+1src/ru/lukyanov/collections/filterstream/App.java,7\6\7687fdb1aff5d604f1517a4b13c91198720ff63d
