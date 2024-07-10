@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="reverse multimap with stream api task added">
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="MultiIterator task added">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -52,6 +52,7 @@
     "Application.App (1).executor": "Run",
     "Application.App.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
+    "Application.RobotFoot.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ru.lukyanov.array.arraysintersection.App.executor": "Run",
     "Application.ru.lukyanov.array.averagenum.App.executor": "Run",
@@ -119,7 +120,20 @@
       <recent name="ru.lukyanov" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.lukyanov.collections.reversemultimapwithstreamapi.App">
+  <component name="RunManager" selected="Application.RobotFoot">
+    <configuration name="RobotFoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.various.RobotFoot" />
+      <module name="testTasksForInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.lukyanov.various.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ru.lukyanov.array.countislandsin2darray.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.lukyanov.array.countislandsin2darray.App" />
       <module name="testTasksForInterview" />
@@ -172,26 +186,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.lukyanov.numbers.reverseinteger.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.lukyanov.numbers.reverseinteger.App" />
-      <module name="testTasksForInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.lukyanov.numbers.reverseinteger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RobotFoot" />
         <item itemvalue="Application.ru.lukyanov.collections.reversemultimapwithstreamapi.App" />
         <item itemvalue="Application.ru.lukyanov.array.countislandsin2darray.App" />
         <item itemvalue="Application.ru.lukyanov.numbers.climbstairs.App" />
         <item itemvalue="Application.ru.lukyanov.collections.removeduplicatesfromlist.App" />
-        <item itemvalue="Application.ru.lukyanov.numbers.reverseinteger.App" />
       </list>
     </recent_temporary>
   </component>
@@ -532,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720529434443</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="MultiIterator task added">
+      <option name="closed" value="true" />
+      <created>1720531482614</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1720531482615</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -568,6 +577,7 @@
     <MESSAGE value="numbers tasks added" />
     <MESSAGE value="count islands 2D array task added" />
     <MESSAGE value="reverse multimap with stream api task added" />
-    <option name="LAST_COMMIT_MESSAGE" value="reverse multimap with stream api task added" />
+    <MESSAGE value="MultiIterator task added" />
+    <option name="LAST_COMMIT_MESSAGE" value="MultiIterator task added" />
   </component>
 </project>
