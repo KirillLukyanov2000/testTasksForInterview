@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="RobotFoot multithreading task added">
+    <list default="true" id="7ba1f4c4-7a5c-4c2d-9bdc-1e9c9644250c" name="Changes" comment="Stream filter task added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -547,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720594402340</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Stream filter task added">
+      <option name="closed" value="true" />
+      <created>1720613230396</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1720613230396</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -585,6 +593,7 @@
     <MESSAGE value="reverse multimap with stream api task added" />
     <MESSAGE value="MultiIterator task added" />
     <MESSAGE value="RobotFoot multithreading task added" />
-    <option name="LAST_COMMIT_MESSAGE" value="RobotFoot multithreading task added" />
+    <MESSAGE value="Stream filter task added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream filter task added" />
   </component>
 </project>
